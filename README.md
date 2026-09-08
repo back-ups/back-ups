@@ -21,7 +21,7 @@ $ whoami
 
 back-ups@github
 ----------------
-location   : Portugal
+location   : portugal
 focus      : software & web development
 currently  : building & experimenting
 status     : @ 127.0.0.1
@@ -157,11 +157,11 @@ infrastructure, databases and whatever interesting problem happens to land on my
 <div align="center">
 
 ```text
-────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────────────────────────────
 
-     "first make it work, then make it elegant."
+     "learn a little everyday so ignorance is never an excuse." ~ alcool club
 
-────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
 </div>
