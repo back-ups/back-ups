@@ -62,36 +62,6 @@
 
 ---
 
-<!-- ═══════════════ GITHUB ═══════════════ -->
-
-## `~/github`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=back-ups&show_icons=true&hide_border=true&bg_color=0A0E16&title_color=4C8DFF&text_color=8b949e&icon_color=4C8DFF&rank_icon=github" height="170" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=back-ups&layout=compact&hide_border=true&bg_color=0A0E16&title_color=4C8DFF&text_color=8b949e" height="170" alt="Top languages"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=back-ups&hide_border=true&background=0A0E16&ring=4C8DFF&fire=4C8DFF&currStreakLabel=4C8DFF&sideLabels=8b949e&dates=8b949e" alt="GitHub streak"/>
-
-</div>
-
----
-
-<!-- ═══════════════ ACTIVITY ═══════════════ -->
-
-## `~/activity`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=back-ups&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
-
-</div>
-
----
-
 <!-- ═══════════════ FOOTER ═══════════════ -->
 
 <div align="center">
