@@ -16,19 +16,9 @@
 
 ## `~/about`
 
-```console
-$ whoami
-
-back-ups@github
-----------------
-location   : portugal
-focus      : software & web development
-currently  : building & experimenting
-status     : @ 127.0.0.1
-```
-
-I like building things that **actually do something**, from applications and APIs to
-infrastructure, databases and whatever interesting problem happens to land on my desk.
+<a href="https://www.vice.dog">
+vice.dog
+</a>&nbsp;
 
 ---
 
